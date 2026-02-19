@@ -24,7 +24,7 @@ Each protocol is implemented as a pluggable module with a standard interface.
 
 ```bash
 git clone https://github.com/salemmohammed/PaxiDB.git
-cd Distributed_DB
+cd PaxiDB
 ```
 
 ## Build
